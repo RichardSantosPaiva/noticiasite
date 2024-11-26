@@ -1,0 +1,34 @@
+{
+  "noticias": [
+    {
+      "titulo": "Feriadão terá tempo instável no sudeste, centro-oeste e norte do país",
+      "noticia": "Uma frente fria que se formou no Sul na segunda-feira (11) deve criar um corredor de umidade desde a Amazônia, trazendo instabilidade para uma extensa faixa na região central.",
+      "imagem": "chuva.jpg",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2024/11/15/como-fica-o-tempo-no-feriadao-veja-previsao-para-todas-as-regioes-do-pais.ghtml"
+    },
+    {
+      "titulo": "Alex Telles e Dodô são convocados para a seleção brasileira",
+      "noticia": "Os laterais Alex Telles, do Botafogo, e Dodô, da Fiorentina, foram convocados pelo técnico Dorival Júnior para defender a seleção brasileira contra o Uruguai, na próxima terça-feira, no último compromisso da equipe em 2024.",
+      "imagem": "futebol.jpg",
+      "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2024/11/15/alex-telles-e-dodo-sao-convocados-para-a-selecao-brasileira.ghtml"
+    },
+    {
+      "titulo": "Exclusivo! Terry Crews, de ‘Todo Mundo Odeia o Chris’, revela curiosidade",
+      "noticia": "O Domingo Record entrevista neste fim de semana (17), com exclusividade, o ator Terry Crews, famoso no Brasil por ser o “pai do Chris”, personagem icônico da série Todo Mundo Odeia o Chris.",
+      "imagem": "cris.jpg",
+      "link": "https://record.r7.com/domingo-record/novidades/terry-crews-astro-de-todo-mundo-odeia-o-chris-revela-curiosidade-ao-domingo-record-nao-sou-careca-14112024/"
+    },
+    {
+      "titulo": "Avenida Paulista tem manifestação contra a escala 6×1",
+      "noticia": "Ato foi convocado nas redes sociais pela deputada Erika Hilton (PSOL-SP), autora da PEC que prevê o fim desse tipo de jornada.",
+      "imagem": "pessoas.jpg",
+      "link": "https://youtube.com/shorts/BF3jwQvkh_Q?si=Lp2TTmFyJOu4Umk4"
+    },
+    {
+      "titulo": "Noticia exclusiva",
+      "noticia": "estudos desobrem sobre um novo tipo de",
+      "imagem": "peixe.jpg",
+      "link": "https://youtube.com/shorts/BF3jwQvkh_Q?si=zkGGzB_62Z3hab0D"
+    }
+  ]
+}
