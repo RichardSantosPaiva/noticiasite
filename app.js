@@ -29,5 +29,5 @@ app.get('/noticias', (req, res) => {
 
 // Iniciar o servidor
 app.listen(port, () => {
-    console.log(`Servidor rodando na porta http://localhost:${port}`);
+    console.log(`Servidor rodando na porta http://localhost:${port}/Noticias`);
 });
